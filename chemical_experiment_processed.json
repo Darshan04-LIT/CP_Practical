@@ -1,0 +1,4 @@
+{"Experiment_ID":"EXP001","Time_min":0,"Temperature_C":25,"Pressure_bar":1.0,"Concentration_mol_L":1.0}
+{"Experiment_ID":"EXP001","Time_min":10,"Temperature_C":30,"Pressure_bar":1.05,"Concentration_mol_L":0.92}
+{"Experiment_ID":"EXP002","Time_min":0,"Temperature_C":25,"Pressure_bar":1.0,"Concentration_mol_L":1.2}
+{"Experiment_ID":"EXP002","Time_min":10,"Temperature_C":32,"Pressure_bar":1.08,"Concentration_mol_L":1.05}
